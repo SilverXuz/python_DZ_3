@@ -18,7 +18,6 @@ for i in range(len(spisok)):
     elif y == 0.001:
         print('Бог дал, бог взял')
     elif y < min:
-
         min = y
 
 result = max - min
